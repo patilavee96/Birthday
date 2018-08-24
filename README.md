@@ -1,6 +1,8 @@
 # Birthday
 This program is talking your date of birth as input and tells the day of week on which you born.
 
+
+
 package special;
 import java.util.Scanner;
 public class Birthday {
