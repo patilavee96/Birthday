@@ -3,7 +3,7 @@ This program is talking your date of birth as input and tells the day of week on
 
 
 
-package special;
+
 import java.util.Scanner;
 public class Birthday {
 	static int d,m,y,c,l; 
